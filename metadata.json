@@ -1,0 +1,8 @@
+{
+  "name": "Crane Studio",
+  "description": "Guía de montaje, diseño electrónico, validador, informe académico y cuaderno de ingeniería de una Grúa Torre Automatizada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0B1120"/>
+  <rect x="28" y="28" width="456" height="456" rx="72" fill="none" stroke="#10B981" stroke-width="10" stroke-opacity="0.35"/>
+  <!-- Torre vertical -->
+  <rect x="164" y="152" width="42" height="260" rx="6" fill="#1E293B" stroke="#10B981" stroke-width="8"/>
+  <path d="M168 200 L202 240 M202 200 L168 240 M168 265 L202 305 M202 265 L168 305 M168 330 L202 370 M202 330 L168 370" stroke="#34D399" stroke-width="5" stroke-linecap="round"/>
+  <!-- Base -->
+  <rect x="116" y="408" width="138" height="26" rx="8" fill="#10B981"/>
+  <!-- Pluma y contrapluma -->
+  <rect x="92" y="128" width="328" height="28" rx="6" fill="#0F172A" stroke="#38BDF8" stroke-width="8"/>
+  <!-- Tirante superior -->
+  <path d="M185 82 L120 128 M185 82 L365 128" stroke="#F59E0B" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="185" cy="82" r="14" fill="#F59E0B"/>
+  <!-- Contrapeso -->
+  <rect x="100" y="156" width="44" height="36" rx="5" fill="#F59E0B"/>
+  <!-- Carro y gancho -->
+  <rect x="318" y="156" width="46" height="22" rx="4" fill="#38BDF8"/>
+  <line x1="341" y1="178" x2="341" y2="275" stroke="#E2E8F0" stroke-width="6" stroke-dasharray="10 6"/>
+  <rect x="323" y="275" width="36" height="24" rx="5" fill="#10B981"/>
+  <path d="M341 299 C341 322 323 324 323 310" fill="none" stroke="#FBBF24" stroke-width="7" stroke-linecap="round"/>
+</svg>
